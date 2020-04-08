@@ -33,8 +33,8 @@ APP_ENV="development" # or set to "production" on Heroku server
 OPEN_WEATHER_API_KEY="___________"
 MY_ZIP="10017"
 
-SENDGRID_API_KEY="_______________"
-MY_EMAIL_ADDRESS="hello@example.com"
+SENDGRID_API="_______________"
+MY_EMAIL="hello@example.com"
 
 MY_NAME="Jon Snow"
 ```
