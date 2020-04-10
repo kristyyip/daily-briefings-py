@@ -71,6 +71,6 @@ Run the app:
 
 ```py
 # on windows:
-export FLASK_APP=hello.py
+export FLASK_APP=web_app
 flask run
 ```
